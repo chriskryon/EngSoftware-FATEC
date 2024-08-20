@@ -1,11 +1,14 @@
-# EngSoftware-FATEC
+# FATEC - DSM 24/2 - Software Engineering I
 First activity following the steps of Hello World from GitHub Documentation page.
 
-I'm editing the `README.md` file in the new branch, named `readme-edits`
-A little about me, my name's Christopher, and I like to study Software Development. I'm writing is the documentation instructions from [this link](https://docs.github.com/en/get-started/start-your-journey/hello-world#step-3-make-and-commit-changes)
+## About Me
 
-## Start your journey
+Hi, I'm Christopher. I'm a first-semester student in the Software Development Management (DSM) at FATEC Jacarei. My focus is on backend development, but I'm also eager to build a solid foundation in frontend technologies to become a well-rounded full-stack developer. Ultimately, my goal is to evolve into a software engineer.
 
+THis activity is of the documentation instructions from [this link](https://docs.github.com/en/get-started/start-your-journey/hello-world#step-3-make-and-commit-changes)
+
+## GitHub Hello World Activities:
+### Start your journey
 | Task | Status | Proof |
 |------|--------|-------|
 |[Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world)|✅ Done|[Pull Request Proof](https://github.com/chriskryon/hello-world/pull/1)|
