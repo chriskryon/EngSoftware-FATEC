@@ -10,8 +10,8 @@ A little about me, my name's Christopher, and I like to study Software Developme
 |------|--------|-------|
 |[Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world)|✅ Done|[Pull Request Proof](https://github.com/chriskryon/hello-world/pull/1)|
 |[Set up your profile](https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile)|✅ Done|[Readme](https://github.com/chriskryon/chriskryon)|
-|[Finding Inspiration](https://docs.github.com/en/get-started/start-your-journey/finding-inspiration-on-github)|✅ Done|[Proof](https://github.com/chriskryon?tab=stars)|
-||||
+|[Find Inspiration](https://docs.github.com/en/get-started/start-your-journey/finding-inspiration-on-github)|✅ Done|[Proof](https://github.com/chriskryon?tab=stars)|
+|[Download Files(https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github)|✅ Done|[Forked Repo](https://github.com/chriskryon/repo-to-do-pull-request)|
 ||||
 ||||
 ||||
